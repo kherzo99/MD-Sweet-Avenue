@@ -1,0 +1,90 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-image: url(Event-Planning.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: rgba(10, 10, 10, 0.306); */
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-family: "Dancing Script";
+  font-size: 30px;
+}
+
+.navbar {
+  font-size: 22px;
+}
+
+.card-body a {
+  background-color: rgba(255, 201, 234);
+  border-color: rgba(255, 243, 253);
+  color: black;
+}
+
+.card-body a:hover {
+  background-color: rgba(250, 229, 242);
+  border-color: rgba(255, 243, 253);
+  color: black;
+}
+
+.footer {
+  background-color: rgb(255, 195, 235);
+  color: rgb(0, 0, 0);
+}
+
+.card {
+  margin: 16px;
+}
+
+.product-content {
+  display: none;
+  padding: 8px;
+}
+
+.card-body button {
+  padding: 5px;
+  margin: 5px;
+  background: rgb(255, 195, 235);
+  color: black;
+  border: 0cap;
+}
+
+.card-body button:hover {
+  background: rgb(250, 229, 242);
+  color: black;
+}
+
+.container h5 {
+  font-weight: bold;
+  font-family: "Dancing Script";
+  font-size: 30px;
+}
+
+/* .container img {
+  width: auto;
+  height: 200px;
+} */
+
+#cards-container img {
+  width: auto;
+  height: 200px;
+}
+
+#contact-ig {
+  text-decoration: none;
+}
+
+#contact-tel {
+  text-decoration: none;
+}
+
+#card-product-tittle {
+  font-size: 70px;
+  font-family: "Dancing Script";
+}
+
+#card-product-content {
+  font-size: 20px;
+  font-family: "Montserrat";
+}
